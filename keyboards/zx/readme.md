@@ -1,6 +1,4 @@
-# zx
-
-![zx](imgur.com image replace me!)
+# ZX Spectrum USB!
 
 This keyboard firmware allows modern hardware to replicate a classic ZX Spectrum, for use in emulators.
 
